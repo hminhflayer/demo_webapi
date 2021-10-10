@@ -7,6 +7,11 @@
       "files": [ "css/bootstrap.min.css", "css/bootstrap.min.css.map" ],
       "provider": "cdnjs",
       "destination": "wwwroot/"
+    },
+    {
+      "library": "font-awesome@5.15.4",
+      "provider": "cdnjs",
+      "destination": "wwwroot/"
     }
   ]
 }

@@ -21,3 +21,13 @@ td {
     border: 1px solid;
     padding: 5px;
 }
+
+.text-header {
+    text-align: center;
+    color: greenyellow;
+}
+
+h1 {
+    color: greenyellow;
+    text-shadow: 2px 3px silver;
+}
